@@ -1,0 +1,41 @@
+Q1- guido van rossum
+
+Q2- it supports obejct oriented , structured and functional programming
+
+Q3- yes it is case sensitive
+
+Q4- .py/.pyi
+
+Q5- it is a interpreted language
+
+Q6- a module, a functional body and a class defination
+
+Q7- #== Hash character 
+
+Q8- sys.version/ python-V / python --version
+
+Q9- lambda 
+
+Q10- preffered installer program 
+
+Q11- print(), type(), input(),max(),len() etc
+
+Q12- 79 characters
+
+Q13- extensive support libraries ; versatile ; easy to read ,learn and write ; no need to mention data types, it takes auto matically; portable across operating systems
+
+Q14- python uses a portion of the memory for the internal use and non object memory , another part of the memory is used for python objects such as int, dict, list etc.
+
+Q15- Pyhton can be installed by searching "PYTHON DOWNLOAD" and download its installer then run executable installer and then verify its installation is done or not.
+
+     1.Right-clicking This PC and going to Properties.
+
+     2.Clicking on the Advanced system settings in the menu on the left.
+
+     3.Clicking on the Environment Variables button o​n the bottom right.
+
+     4.In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+
+     5.Clicking on New and entering Python’s install directory.
+	 
+Q16- indentation is required and important as python uses it to indicate a block of code. 	 
